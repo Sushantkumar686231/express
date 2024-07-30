@@ -10,7 +10,7 @@
 # supported CodeQL languages.
 #
 name: "CodeQL"
-
+#sushant checking the repo and fork use
 on:
   push:
     branches: ["master"]
